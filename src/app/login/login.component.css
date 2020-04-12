@@ -1,0 +1,16 @@
+.login-background{
+    background-image: url('../../assets/stock-photo-padlock-icon-in-businessman-hand-safety-concept-1555941134.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left:35%;
+}
+.login-card{
+    align-self: center;
+}

@@ -1,0 +1,13 @@
+.inside-background{
+    background-image: url('../../assets/stock-photo-glass-jar-mugs-with-green-health-smoothie-kale-leaves-lime-apple-kiwi-grapes-banana-avocado-1064941334.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    padding: left 0%;
+}
